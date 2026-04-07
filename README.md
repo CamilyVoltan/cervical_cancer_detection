@@ -2,10 +2,10 @@
 Projeto desenvolvido na disciplina de Projeto Integrador IV, com o objetivo de auxiliar na detecção de anormalidades citológicas em amostras de exames para rastreio do câncer do colo do útero. Devido ao tratamento de dados sensíveis o código e a base de dados são restritos e abertos somente para as desenvolvedoras e orientador do projeto.
 
 Cervical Cancer Detection - Ciência de Dados e Ética
-📋 Descrição do Projeto
+Descrição do Projeto
 Projeto desenvolvido na disciplina de Projeto Integrador IV, focado no auxílio à detecção de anormalidades citológicas em amostras de exames para rastreio do câncer do colo do útero. O objetivo é aplicar algoritmos de inteligência artificial para identificar padrões que possam indicar a presença de células pré-cancerosas ou cancerosas.
 
-⚖️ Conformidade Legal e Ética (LGPD)
+Conformidade Legal e Ética (LGPD)
 Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018), este projeto adota as seguintes diretrizes:
 
 Privacidade por Design: O acesso ao dataset original e ao código-fonte de processamento é restrito aos desenvolvedores e orientador, dado que lidam com dados sensíveis de saúde (Art. 5º, II da LGPD).
@@ -14,7 +14,7 @@ Segurança da Informação: Medidas de controle de acesso foram implementadas pa
 
 Anonimização: Quaisquer resultados ou métricas exibidos publicamente passaram por processo de anonimização irreversível.
 
-🛠️ Tecnologias e Metodologia
+Tecnologias e Metodologia
 Linguagem: Python
 
 Bibliotecas: Pytorch, Keras e Tensorflow, Numpy, Matplotlib
